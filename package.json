@@ -1,0 +1,35 @@
+{
+  "name": "create-nextjs-starter",
+  "version": "1.0.0",
+  "description": "Clone NextJS Starter Project",
+  "main": "index.js",
+  "bin": {
+    "create-nextjs-starter": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/shandysiswandi/create-nextjs-starter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shandysiswandi/create-nextjs-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shandysiswandi/create-nextjs-starter/issues"
+  },
+  "engines": {
+    "npm": ">=6.14.13",
+    "node": ">=14.17.1"
+  },
+  "keywords": [
+    "NextJS",
+    "Typescript",
+    "NodeJS",
+    "ReactJS",
+    "Tailwindcss",
+    "Jest",
+    "Testing Framework"
+  ],
+  "author": "Shandy Siswandi",
+  "license": "MIT"
+}
